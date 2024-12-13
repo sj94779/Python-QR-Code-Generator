@@ -1,0 +1,4 @@
+# Command to run:
+# pip3 install pyqrcode
+# python3 main.py
+# it will generate a svg image , open it outside vs code
